@@ -1,0 +1,80 @@
+
+* {
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px; 
+  } 
+  
+
+.positons{
+  box-shadow: 5px 3px 15px grey;
+}
+.navbar-new{
+    background-color:#4286f4;
+    
+}
+.icon-bars {
+    width: 14px;
+    height: 2px;
+    background-color: black;
+    margin: 4px 0;
+  }
+  .icon-adjust{
+    float: left;  
+    margin: 12px auto;
+    margin-left: 20px;
+    /* padding: 12px 10px 0px 20px  ;top right bottom left */
+
+  }
+  
+.fa-user-circle{
+    float: left;
+    margin:8px 0px 0px 20px  ;/*top right bottom left */
+   font-size: 35px;
+   color:burlywood;
+} 
+ 
+.navbar-brand{
+    color: beige;
+    font-size: 15px;
+    font-family:Georgia, serif;
+    float: left;
+    line-height: 50px;
+    margin-left: 10px;
+}
+.profile{
+    float: right;
+    margin-right:20px;
+}
+.icon-serch{
+    float: right;
+    margin:15px 10px 0px 25px ;/*top right bottom left */
+    font-size: 15px;
+    color: beige;
+}
+.box-adjust{
+    margin: 12px auto;
+
+}
+.box{
+    float: right;
+    width: 200px;
+    height: 25px;
+    border:1px solid beige;
+    border-radius: 15px;
+}
+.select-name{
+    float:left;
+    color: beige;
+    margin-left:10px;
+    font-size: 12px;
+    line-height: 25px; 
+}
+.caret{
+    float:right;
+    margin: 10px 20px 0px 0px;
+    color: beige;
+}
+.back-ground{
+background-color: #cff7e7
+}

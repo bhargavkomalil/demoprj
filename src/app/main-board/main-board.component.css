@@ -1,0 +1,90 @@
+
+/* * {
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px; 
+  } 
+   */
+
+.box{
+
+    border: 1px solid white;
+    background-color: white;
+    /* margin-top: -19px; */
+    
+}
+.l-style{
+ font-size: 15px;
+}
+.c-style{
+    margin-left: 10px;
+    /* float: right; */
+}
+.c-style1{
+    /* margin-left: 10px; */
+    float: right;
+}
+.move{
+    margin-right:10px; 
+}
+tr:nth-child(odd) {
+    background-color: #e0fff5;
+}
+
+
+
+.fa-trash-alt{
+    margin-left: 30px;
+    color:red;
+}
+.fa-pencil-alt{
+    color: brown;
+}
+.fa-fa-plus{
+    color: green;
+    margin-left: 40px;
+
+}
+.fa-cog{
+    color: red;
+    margin-left: 15px;
+
+}
+.fa-file-medical{
+    margin-left: 15px;
+
+}
+.text{
+    text-align: center;
+}
+
+
+.table-box-style{
+    overflow-y:auto;
+    height: 310px;
+    border-bottom: 1px solid darkgray;
+}
+.text-center{
+    text-align: right;
+    margin-top:10px; 
+
+}
+.space{
+    margin-left:20px;
+    /* border-bottom:1px solid black;   */
+}
+.middile-col{
+    margin-top:13px; 
+}
+.sides{
+    float: left;
+}
+.fa-angle-double-right{
+    font-size: 20px;
+    margin: 8px;
+    margin-left:20px; 
+    text-align: center;
+}
+.fa-chevron-right{
+    margin-top:8px;
+}

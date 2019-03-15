@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+    padding:0px;
+    margin: 0px; 
+  } 
+  
+
+.navbar-default{
+    height: 40px;
+    /* margin-top:10%;  */
+}
+.footer-style{
+    float: left;
+    margin-top: 10px;
+}
+.footer-st{
+    float: right;
+}
+.footer-st{
+    float:right;
+    margin-top: 10px;
+
+}
